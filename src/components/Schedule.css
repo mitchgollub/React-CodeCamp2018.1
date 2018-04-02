@@ -1,0 +1,30 @@
+section.schedule {
+  background-color: lightblue;
+  padding: 10px;
+  height: calc(100vh - 91px);
+  overflow-y: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+section.schedule li {
+  display: flex;
+}
+
+section.schedule h2 {
+  width: 100px;
+}
+
+.room {
+  flex: 0 0 100px;
+}
+
+.title {
+  flex: 0 0 500px;
+}
+
+.speaker {
+  flex: 0 0 200px;
+}

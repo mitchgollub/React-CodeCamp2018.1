@@ -1,0 +1,15 @@
+{
+  "name": "react-with-routing-and-store-code-camp-20181",
+  "version": "1.0.0",
+  "description": "multiple components with routing, Redux store,  for loops",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/k9jw4pq2j5",
+  "main": "index.js",
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "5.0.7",
+    "react-router-dom": "latest",
+    "redux": "3.7.2"
+  }
+}

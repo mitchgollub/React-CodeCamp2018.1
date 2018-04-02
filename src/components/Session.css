@@ -1,0 +1,30 @@
+section.session {
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+  height: calc(100vh - 91px);
+  overflow-y: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+section.session ul li {
+  display: flex;
+}
+
+section.session ul li > div {
+  flex: 0 0 150px;
+}
+
+section.session ul li > div:nth-child(1) {
+  flex: 0 0 600px;
+}
+
+section.session ul li > div:nth-child(3) {
+  flex: 0 0 100px;
+}
+
+section.session li > div:nth-child(4) {
+  flex: 0 0 50px;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "react-with-routing-and-store-code-camp-20181",
+  "description": "multiple components with routing, Redux store,  for loops",
+  "version": "0.0.0",
+  "dependencies": {
+    "react-router-dom": "latest",
+    "react-dom": "latest",
+    "react": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
